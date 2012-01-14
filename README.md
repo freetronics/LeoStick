@@ -36,8 +36,8 @@ navigate to Projects -> eagle -> LeoStick.
 CREDITS
 -------
 The LeoStick was designed by:
-  Jonathan Oxer jon@freetronics.com--
-  Marc Alexander marc@freetronics.com  
+Jonathan Oxer jon@freetronics.com--
+Marc Alexander marc@freetronics.com  
 
 
 DISTRIBUTION
